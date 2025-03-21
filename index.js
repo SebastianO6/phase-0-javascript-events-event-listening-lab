@@ -6,6 +6,4 @@ function addingEventListener() {
 }
 
 
-
-
-// addingEventListener(); // Call the function to ensure it binds the event
+addingEventListener()
